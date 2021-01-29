@@ -5,5 +5,5 @@ SNS에서 사용되는 기능들을 구현해보고자 한 프로젝트<br>
 - 프로젝트 기간<br>
 2019-03 ~ 2019-06<br><br>
 - 기술 스택<br>
-Ruby On Rails
+Ruby On Rails<br>
 MySQL
