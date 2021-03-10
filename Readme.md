@@ -33,8 +33,8 @@
 
 - UseCase (각 기능마다 다음과 같이 작성)
 
-![%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%2044a7d68c0fc648e1b5057056cf708eda/Untitled.png](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%2044a7d68c0fc648e1b5057056cf708eda/Untitled.png)
+<img src="./img/Untitled.png" width="400" height="430">
 
 - 결과 화면
 
-![%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%2044a7d68c0fc648e1b5057056cf708eda/Untitled%201.png](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%2044a7d68c0fc648e1b5057056cf708eda/Untitled%201.png)
+<img src="./img/Untitled%201.png">
