@@ -33,7 +33,7 @@
 
 - UseCase (각 기능마다 다음과 같이 작성)
 
-<img src="./img/Untitled.png" width="400" height="430">
+<img src="./img/Untitled.png" width="500" height="530">
 
 - 결과 화면
 
